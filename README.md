@@ -1,6 +1,8 @@
 # progetto_api
 progetto relativo al corso di Algoritmi e Principi dell'Informatica
+
 Docente: Martineghi Davide
+
 Valutazione: 30/30L
 ## Obiettivo del progetto
 
