@@ -1,5 +1,7 @@
 # progetto_api
 progetto relativo al corso di Algoritmi e Principi dell'Informatica
+Docente: Martineghi Davide
+Valutazione: 30/30L
 ## Obiettivo del progetto
 
 Realizzare un programma in C per la ricerca del percorso ottimo tra stazioni di servizio di un'autostrada.
@@ -15,9 +17,4 @@ Il programma non solo deve produrre un output corretto, ma deve rispettare dei v
 | 30          | 88 MiB    | 4 s    | ✅     |
 | 30L         | 78 MiB    | 1 s    | ❌     |
 
-Il mio progetto, prendendo i dati dal verificatore, ha i seguenti utilizzi di memoria e tempo:
 
-- **Memoria**: ~6,1 MiB
-- **Tempo**: ~6,3 s
-
-Questi risultati possono variare a seconda della potenza di calcolo della macchina.
