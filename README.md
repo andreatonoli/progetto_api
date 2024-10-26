@@ -1,4 +1,4 @@
-# progetto_api
+# Prova Finale Algoritmi e Principi dell'Informatica 2022-2023
 progetto relativo al corso di Algoritmi e Principi dell'Informatica
 
 Docente: Martineghi Davide
